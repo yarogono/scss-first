@@ -1,0 +1,13 @@
+@import "_variables";
+
+h2 {
+  color: $bg;
+}
+
+.box h2 {
+  color: blue;
+}
+
+.box button {
+  color: yellow;
+}
