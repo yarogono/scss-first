@@ -2,7 +2,7 @@
   "name": "scss-masterclass",
   "version": "1.0.0",
   "repository": "https://github.com/nomadcoders/scss-masterclass",
-  "author": "Nicolás Serrano Arévalo <itnico.las.me@gmail.com>",
+  "author": "yarogon <naocya@naver.com>",
   "license": "MIT",
   "dependencies": {
     "@babel/core": "^7.4.5",
