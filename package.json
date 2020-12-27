@@ -15,6 +15,7 @@
     "gulp-pug": "^4.0.1",
     "gulp-sass": "^4.0.2",
     "gulp-webserver": "^0.9.1",
+    "gh-pages": "^3.1.0",
     "node-sass": "^4.12.0"
   },
   "scripts": {
@@ -24,5 +25,6 @@
     "browsers": [
       "last 2 versions"
     ]
-  }
+  },
+  "homepage": "https://yarogono.github.io/scss/"
 }
