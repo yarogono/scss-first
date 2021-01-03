@@ -19,12 +19,17 @@
     "node-sass": "^4.12.0"
   },
   "scripts": {
-    "dev": "gulp dev"
+    "dev": "gulp dev",
+    "build": "gulp build",
+    "deploy": "gulp deploy"
   },
   "browserslist": {
     "browsers": [
       "last 2 versions"
     ]
   },
-  "homepage": "https://yarogono.github.io/scss/"
+  "homepage": "https://yarogono.github.io/scss/",
+  "devDependencies": {
+    "gulp-gh-pages": "^0.5.4"
+  }
 }
